@@ -7,6 +7,7 @@ JSON→US3+US4
 ArchivoMatricula.json (también está comentado al final de LeerJson por si se pierde) → US5
 
 LeerArchivo.json → US6
+
 1.inicialización git y push del repositorio local
 
 ![](images/image1.png)
