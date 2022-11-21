@@ -1,0 +1,19 @@
+<?xml version="1.1" encoding="UTF-8" standalone="no"?>
+<Cicle codi="IFC32" sigles="DAM" tipus="CFGS">
+    <modul codi="0486" curs="2">
+        <nom>Accés a dades</nom>
+        <Nombredhores>125</Nombredhores>
+    </modul>
+    <modul codi="0483" curs="1">
+        <nom>Sistemas informaticos</nom>
+        <Nombredhores>170</Nombredhores>
+    </modul>
+    <modul codi="0484" curs="1">
+        <nom>Base de datos</nom>
+        <Nombredhores>170</Nombredhores>
+    </modul>
+    <modul codi="0485" curs="1">
+        <nom>Programacion</nom>
+        <Nombredhores>230</Nombredhores>
+    </modul>
+</Cicle>

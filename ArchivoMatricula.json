@@ -1,0 +1,35 @@
+{"Cicle": {
+    "sigles": "DAM",
+    "tipus": "CFGS",
+    "codi": "IFC32",
+    "curs1": [
+        "moduls", [{
+            "Nombredhores": 125,
+            "nom": "Sistemas Informáticos",
+            "codi": "0483"
+        }, {
+            "Nombredhores": 170,
+            "nom": "Base de datos",
+            "codi": "0484"
+        },
+            {
+                "Nombredhores": 230,
+                "nom": "Programacion",
+                "codi": "0485"
+            }]
+
+    ],
+    "curs2":[
+        "moduls", [{
+            "Nombredhores": 125,
+            "nom": "Desarrollo de interfaces",
+            "codi": "0488"}
+        ], [{
+            "Nombredhores": 125,
+            "nom": "Accés a dades",
+            "codi": "0486"}
+        ]
+
+    ]
+
+}}
